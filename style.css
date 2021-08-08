@@ -1,0 +1,38 @@
+body{
+    color: gray;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+h1:hover{
+    color: red;
+}
+a{
+    color: coral;
+}
+a:hover{
+    color: brown;
+}
+input{
+    font-size: 20px;
+    border-radius: 7px;
+    font-weight: bolder;
+    width: 300px;
+}
+input:hover{
+    background-color: aqua;
+    
+}
+button{
+    font-size: 20px;
+    font-weight: bold;
+    color: gray;
+    border-radius: 7px;
+}
+button:hover{
+    background-color: rgb(94, 204, 238);
+    color: white;
+}
+img{
+    
+    height: 65px;
+}
